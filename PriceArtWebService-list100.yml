@@ -1,0 +1,14 @@
+application:
+    listino: 100
+    sconto: 0
+    
+    
+# ==============================================================
+# = Actuator Info
+# ==============================================================
+info:
+    assistenza:
+        nome: "Pino"
+    nome:
+        nome-app: "Price"
+    profilo: "Standard"
